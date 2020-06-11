@@ -1,0 +1,24 @@
+{
+  "name": "angularcourse",
+  "version": "1.0.0",
+  "description": "Repositorio de Cursera Angular",
+  "main": "index.js",
+  "dependencies": {
+    "appjs": "0.0.20",
+    "appjs-win32": "0.0.19"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EandradeJ/AngularCourse.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EandradeJ/AngularCourse/issues"
+  },
+  "homepage": "https://github.com/EandradeJ/AngularCourse#readme"
+}
