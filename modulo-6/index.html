@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html ng-app='MsgApp'>
+  <head>
+    <meta charset="utf-8">
+    <script src="..\angular-1.7.9\angular.min.js"></script>
+    <script src="app.js"></script>
+    <style>body { font-size:1.2em;}</style>
+    <title>Expresion and Interpoation JS</title>
+  </head>
+  <body>
+    <h1>Expresion and Interpoation JS</h1>
+    <div ng-controller="MsgController">
+      message is: <br> {{name}} has a message for you
+      {{sayMessage()}}
+    </div>
+  </body>
+</html>
